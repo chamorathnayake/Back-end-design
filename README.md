@@ -5,5 +5,5 @@ user name
 admin
 
 password
-1234
+admin
 
